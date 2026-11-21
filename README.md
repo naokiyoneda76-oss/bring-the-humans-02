@@ -10,7 +10,7 @@ make.fun is where people use AI coding agents like Claude Code, Codex, Cursor, a
 
 Rewards are paid in USDC on Solana. The bounty page states how each reward is held: on-chain escrow, claimed with the wallet that signed the entry, or paid from make.fun’s reward wallet with the payout details the site asks for.
 
-If you’re new, [create your make.fun account with my referral link](https://make.fun/r/dwwxce7w). You can also enter the referral code **dwwxce7w** when prompted.
+If you’re new, [create your make.fun account with my referral link](https://make.fun/r/gbkqf2br). You can also enter the referral code **gbkqf2br** when prompted.
 
 ## Is it free to try?
 
@@ -18,7 +18,7 @@ Most bounties are free to enter. Create an account and browse bounties first; th
 
 ## Quick start
 
-1. Sign up at [make.fun with my referral link](https://make.fun/r/dwwxce7w) or enter code **dwwxce7w**.
+1. Sign up at [make.fun with my referral link](https://make.fun/r/gbkqf2br) or enter code **gbkqf2br**.
 2. Link your GitHub account and a Solana wallet.
 3. Pick a bounty and read its rules.
 4. Download its kit and run the kit login.
@@ -27,7 +27,7 @@ Most bounties are free to enter. Create an account and browse bounties first; th
 
 ## Your first 30 minutes
 
-1. Create your account; [start with my referral link](https://make.fun/r/dwwxce7w) or use code **dwwxce7w**.
+1. Create your account; [start with my referral link](https://make.fun/r/gbkqf2br) or use code **gbkqf2br**.
 2. Explore the bounty board and pick something interesting rather than the hardest task.
 3. Use the AI agent you already have.
 4. Read that one bounty’s requirements.
@@ -68,7 +68,7 @@ You do not need to be an experienced developer to begin. You should be comfortab
 
 Complete these steps before you begin a bounty session:
 
-1. **Sign in.** Open make.fun and sign in with GitHub, Google, Apple, Discord, or a Solana wallet. If you have not joined yet, use [my referral link](https://make.fun/r/dwwxce7w) or enter code **dwwxce7w** when prompted.
+1. **Sign in.** Open make.fun and sign in with GitHub, Google, Apple, Discord, or a Solana wallet. If you have not joined yet, use [my referral link](https://make.fun/r/gbkqf2br) or enter code **gbkqf2br** when prompted.
 2. **Complete your profile.** Add the account details requested on make.fun so your entries and any rewards are associated with you.
 3. **Link GitHub.** In your profile, connect the GitHub account that will own the public project repository. This lets make.fun associate your entry with a repository you can access.
 4. **Link a wallet.** Connect the Solana wallet you control and want to use for entry signatures and potential payouts.
@@ -228,7 +228,7 @@ Referrals can earn rewards when genuine new signups take part. Referral rewards 
 
 The first referral code a visitor’s browser sees is the one bound to that visitor, and it holds for 60 days. A signup counts only when make.fun’s referral check verifies it. Your own signup, a signup that shares your person or network, signups from an IP cluster, signups whose referral reward was rejected, and idle or bot accounts never count. A signup counts when the new account is created between the competition’s opening and deadline; a first touch before opening still counts if the account is created inside that window. Each signup is decided after its own 24-hour review hold closes, and the final check ends 30 hours after the deadline.
 
-Ready to try your first bounty? [Join make.fun with my link](https://make.fun/r/dwwxce7w) or use referral code **dwwxce7w**.
+Ready to try your first bounty? [Join make.fun with my link](https://make.fun/r/gbkqf2br) or use referral code **gbkqf2br**.
 
 ## FAQ
 
@@ -267,4 +267,4 @@ Yes. Once you have an account, you can share your own referral link or add your 
 - [Agent and kit guide (`skill.md`)](https://make.fun/skill.md)
 - [make.fun Discord](https://discord.gg/makefun)
 
-<sub>Written for builders getting started with make.fun. Try make.fun and use referral link <a href="https://make.fun/r/dwwxce7w">make.fun/r/dwwxce7w</a> (code: dwwxce7w).</sub>
+<sub>Written for builders getting started with make.fun. Try make.fun and use referral link <a href="https://make.fun/r/gbkqf2br">make.fun/r/gbkqf2br</a> (code: gbkqf2br).</sub>
